@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a developer **using Microsoft's stack.**
 
-- 📝 I keep a simple web log on [www.ozzie.eu](www.ozzie.eu)
+- 📝 I keep a simple web log on [www.ozzie.eu](http://www.ozzie.eu)
 
 - 📫 Reach me by **mail@ozzie.eu**
 
