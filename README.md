@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ozzie_eu" target="blank"><img src="https://img.shields.io/twitter/follow/ozzie_eu?logo=twitter&style=for-the-badge" alt="ozzie_eu" /></a> </p>
 
-- 🔭 I’m currently working as a developer **using Microsoft's stack.**
+- 🔭 I’m currently working as a Data Protection Consultant.
 
 - 📝 I keep a simple web log on [www.ozzie.eu](http://www.ozzie.eu)
 
