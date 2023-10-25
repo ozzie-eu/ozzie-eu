@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozzie.</h1>
-<h3 align="center">Love to code although it bugs me.</h3>
+<h3 align="center">ISO27001:2022 Information Security Associate, ISO2000 Practitioner</h3>
 
 <p align="left"> <a href="https://twitter.com/ozzie_eu" target="blank"><img src="https://img.shields.io/twitter/follow/ozzie_eu?logo=twitter&style=for-the-badge" alt="ozzie_eu" /></a> </p>
 
