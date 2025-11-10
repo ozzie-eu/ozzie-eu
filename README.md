@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ozzie.</h1>
 <h3 align="center"><!-- subtitle --></h3>
 
-<p align="left"> <a href="https://twitter.com/ozzie_eu" target="blank"><img src="https://img.shields.io/twitter/follow/ozzie_eu?logo=twitter&style=for-the-badge" alt="ozzie_eu" /></a> </p>
+<p align="left"> <a href="https://hachyderm.io/@thehappycoder" target="blank"><img src="https://img.shields.io/badge/Mastodon-@thehappycoder-1da1f2?style=for-the-badge" alt="Ozzie" /></a> </p>
 
 - 🔭 I’m currently working as a Data Protection Consultant.
 
