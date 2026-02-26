@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as a Data Protection Consultant.
 
-- 📝 I keep a simple web log on [www.ozzie.eu](http://www.ozzie.eu)
+- 📝 I keep a simple web log on [8bitco.de](https://8bitco.de)
 
-- 📫 Reach me by **mail@ozzie.eu**
+- 📫 Reach me by **happy.coder@8bitco.de**
 
 - ⚡ Fun fact **I love dogs and 70s heavy metal.**
 
